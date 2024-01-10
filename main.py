@@ -1,9 +1,9 @@
 def hello_world():
     print("holi hemosos")
-    print("n")
+    print("Hola soy Manuela")
     print("Hola soy Cortes")
     print("holi soy Jaco")
-    print("Hola soy Cortes")
+    
     
     
 if __name__ == "__main__":
