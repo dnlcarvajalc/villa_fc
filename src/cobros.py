@@ -4,29 +4,18 @@ from datetime import datetime
 
 
 fecha = datetime.now()
-print(fecha)
 
-
-def obtenerColumna (df):
-     columnaD = df.iloc[:, constants.COLUM_NUMBER]
-     return columnaD
 
 def conv_datetime (df):
-    df_new = pd.to_datetime(df['ULTIMO_PAGO'], format='%d/%m/%Y')
-    print("holi")
-    print(df_new)
+    df_new = pd.to_datetime(df['ULTIMO_PAGO'], format= constants.DATE_FORMAT)
     return df_new
 
-def resta_fechas (df_new):
-    df_new['Diferencia'] = None
+def diccionario_deudores (df_new):
     deudores = {}
     for index, cliente in df_new.iterrows():
-    # Realizar la resta y asignar el resultado a la columna 'Diferencia'
-        fecha_convertoda = conv_datetime(cliente)
-        df_new.at[index, 'Diferencia'] = fecha_convertoda - fecha
+        fecha_convertida = conv_datetime(cliente)
+        df_new.at[index, 'Diferencia'] = fecha_convertida - fecha
         if df_new.at[index, 'Diferencia'] < constants.LIMIT_DAYS:        
             deudores.update({cliente['NOMBRE']: cliente['NUMERO']})
-    print(df_new)
-    print(deudores)
-    
+     
 
