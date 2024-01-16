@@ -6,10 +6,10 @@ def conv_datetime (df):
     """Esta Funcion convierte las fechas del df en tipo datetime
 
     Args:
-        df (type): Data frame con toda la informacion de pagos
+        df (pd.Dataframe): Data frame con toda la informacion de pagos
 
     Returns:
-        type: Data frame con la fecha en formato año, mes, dia 
+        pd.Dataframe: Data frame con la fecha en formato año, mes, dia 
     """
     df_new = pd.to_datetime(df['ULTIMO_PAGO'], format= constants.DATE_FORMAT)
     return df_new
@@ -20,7 +20,7 @@ def diccionario_deudores (df_new):
        pago sea superior a 30 dias  
 
     Args:
-        df_new (_type_): data frame con la fecha convertida al formato año, mes, dia
+        df_new (pd.Dataframe): data frame con la fecha convertida al formato año, mes, dia
     """
     deudores = {}
     for index, cliente in df_new.iterrows():
@@ -31,4 +31,3 @@ def diccionario_deudores (df_new):
             deudores.update({cliente['NOMBRE']: cliente['NUMERO']})
     print(df_new) 
     print(deudores)
-
