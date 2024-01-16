@@ -1,36 +1,33 @@
-import pandas as pd
-import os
-import pywhatkit as kit       # Biblioteca para enviar mensajes a whatsapp
-from datetime import datetime # Módulo para manipular fechas y horas
+import pywhatkit as kit
+from datetime import datetime
 
-directorio = 'C:\\Users\\mcorr\\OneDrive\\Documentos\\ESTUDIO_PROGRAMACIÓN\\Proyecto_1\\villa_fc\\ensayo.xlsx'
-df = pd.read_excel(directorio)
-
-columna_nombres = 'NOMBRE'
-columna_numeros = 'NUMERO'
-
-# iterrows: Permite iterar sobre las filas de un DataFrame, 
-# devolviendo para cada iteración un índice y una Serie que 
-# contiene los datos de esa fila.
-
-for index, fila in df.iterrows():
-    nombre = fila[columna_nombres]
-    numero = str(fila[columna_numeros])
-
-# Agrega el código de marcación para Colombia y Strip quita los espacios en blanco
-    numero_colombia = "+57" + numero.strip()
+def enviar_mensajes(diccionario_deudores:dict):
     
-# Join se utiliza para concatenar cadenas y las separa
-    ruta_directorio = os.path.join('C:\\Users\\mcorr\\OneDrive\\Documentos\\ESTUDIO_PROGRAMACIÓN\\Proyecto_1\\villa_fc\\directorio', f'{nombre}_{numero}')
-# makedirs crea directorios
-# Si exist_ok=True, la función no generará un error si el directorio ya existe
-    os.makedirs(ruta_directorio, exist_ok=True)
+    """ Esta función automatiza el envío de mensajes de recordatorio
+        a los deudores a través de WhatsApp, recordandoles sobre sus
+        cuotas pendientes a Villa_Fc, utilizando un diccionario
+        con la información de los deudores.
+
+    Args:
+        diccionario_deudores (dict): 
+        Este diccionario almacena la información (Nombre y Número) de los deudores
+        y se proporciona como argumentos.
+    """
+
+    try:
         
-    mensaje = f'Hola {nombre}, esto es una prueba'
-    hora_envio = datetime.now().hour
-    minuto_envio = datetime.now().minute + 1
+        for nombre, numero in diccionario_deudores.items():
+            # Agrega el código de marcación para Colombia y Strip quita los espacios en blanco del número
+            numero_colombia = "+57" + numero.strip()
 
-    # Corrige la función de envío de mensajes
-    kit.sendwhatmsg_instantly(numero_colombia, mensaje, hora_envio, minuto_envio)
+            mensaje = f'Hola {nombre}.\n\n🚩Recuerda tu cuota pendiente en Villa_FC.\n\nPor favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!'
+            hora_envio = datetime.now().hour
+            minuto_envio = datetime.now().minute + 1
 
-    print(f"Directorio creado: {ruta_directorio}, mensaje enviado a {nombre} al número {numero_colombia}")
+            # Envío de mensajes a WhatsApp
+            kit.sendwhatmsg_instantly(numero_colombia, mensaje, hora_envio, minuto_envio)
+
+            print(f"Mensaje enviado a {nombre} al número {numero_colombia}")
+
+    except Exception as e:
+        print(f"Ha ocurrido un error: {str(e)}")

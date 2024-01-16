@@ -128,3 +128,653 @@ Time: 23:49
 Phone Number: +573193917279
 Message: Hola daniel, esto es una prueba
 --------------------
+Date: 11/1/2024
+Time: 16:53
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:54
+Phone Number: +573046309652
+Message: Hola casa, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:54
+Phone Number: +573242801810
+Message: Hola repromax, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:54
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:58
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:59
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 16:59
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:6
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:6
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:6
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:8
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:9
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:9
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:10
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:10
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:10
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:13
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:13
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:13
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:15
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:15
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:16
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:19
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:19
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:19
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:25
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:25
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:25
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:27
+Phone Number: +573233073789
+Message: Hola Jacobo, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:27
+Phone Number: +573226803059
+Message: Hola Sebastian, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:27
+Phone Number: +573193917279
+Message: Hola daniel, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:31
+Phone Number: +573233073789
+Message: Hola JacoboMontenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:31
+Phone Number: +573226803059
+Message: Hola SebastianCortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:32
+Phone Number: +573193917279
+Message: Hola DanielCarvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:33
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:33
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:33
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:35
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:35
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:35
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:36
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:36
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:37
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:38
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:38
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:38
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:42
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:43
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:43
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:44
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:44
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:45
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:46
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:46
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:46
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:47
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:48
+Phone Number: +573226803059
+Message: Hola Sebastian Cortes, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:48
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal, esto es una prueba
+--------------------
+Date: 11/1/2024
+Time: 17:49
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 17:50
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 17:50
+Phone Number: +573193917279
+Message: Daniel Carvajal
+--------------------
+Date: 11/1/2024
+Time: 17:50
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 17:51
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:8
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 18:8
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:15
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 18:15
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:15
+Phone Number: +573193917279
+Message: Daniel Carvajal
+--------------------
+Date: 11/1/2024
+Time: 18:20
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 18:20
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:20
+Phone Number: +573193917279
+Message: Daniel Carvajal
+--------------------
+Date: 11/1/2024
+Time: 18:23
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 18:23
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:24
+Phone Number: +573193917279
+Message: Daniel Carvajal
+--------------------
+Date: 11/1/2024
+Time: 18:26
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 11/1/2024
+Time: 18:27
+Phone Number: +573226803059
+Message: Sebastian Cortes
+--------------------
+Date: 11/1/2024
+Time: 18:27
+Phone Number: +573193917279
+Message: Daniel Carvajal
+--------------------
+Date: 11/1/2024
+Time: 18:28
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 11/1/2024
+Time: 18:28
+Phone Number: +573226803059
+Message: Sebastian
+--------------------
+Date: 11/1/2024
+Time: 18:28
+Phone Number: +573193917279
+Message: Daniel
+--------------------
+Date: 11/1/2024
+Time: 18:32
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 11/1/2024
+Time: 18:32
+Phone Number: +573226803059
+Message: Sebastian
+--------------------
+Date: 11/1/2024
+Time: 18:32
+Phone Number: +573193917279
+Message: Daniel
+--------------------
+Date: 11/1/2024
+Time: 18:33
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 11/1/2024
+Time: 18:34
+Phone Number: +573226803059
+Message: Sebastian
+--------------------
+Date: 11/1/2024
+Time: 18:34
+Phone Number: +573193917279
+Message: Daniel
+--------------------
+Date: 11/1/2024
+Time: 18:37
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 11/1/2024
+Time: 18:41
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 11/1/2024
+Time: 18:42
+Phone Number: +573226803059
+Message: Sebastian
+--------------------
+Date: 11/1/2024
+Time: 18:42
+Phone Number: +573193917279
+Message: Daniel
+--------------------
+Date: 11/1/2024
+Time: 22:1
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 12/1/2024
+Time: 15:18
+Phone Number: +573233073789
+Message: Jacobo
+--------------------
+Date: 12/1/2024
+Time: 15:19
+Phone Number: +573046309652
+Message: Casa
+--------------------
+Date: 12/1/2024
+Time: 15:19
+Phone Number: +573242801810
+Message: Repromax
+--------------------
+Date: 12/1/2024
+Time: 15:22
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 12/1/2024
+Time: 15:22
+Phone Number: +573046309652
+Message: Casa Correa
+--------------------
+Date: 12/1/2024
+Time: 15:22
+Phone Number: +573242801810
+Message: Repromax Armenia
+--------------------
+Date: 12/1/2024
+Time: 15:23
+Phone Number: +573233073789
+Message: Jacobo Montenegro
+--------------------
+Date: 12/1/2024
+Time: 15:23
+Phone Number: +573046309652
+Message: Casa Correa
+--------------------
+Date: 12/1/2024
+Time: 15:23
+Phone Number: +573242801810
+Message: Repromax Armenia
+--------------------
+Date: 12/1/2024
+Time: 15:30
+Phone Number: +573233073789
+Message: Jacobo Montenegro Angel
+--------------------
+Date: 12/1/2024
+Time: 15:30
+Phone Number: +573165326067
+Message: Juan Jose Gomez
+--------------------
+Date: 12/1/2024
+Time: 15:31
+Phone Number: +573193917279
+Message: Daniel Carvajal Corea
+--------------------
+Date: 12/1/2024
+Time: 15:31
+Phone Number: +573185957386
+Message: Manuela Correa Lopez
+--------------------
+Date: 12/1/2024
+Time: 15:37
+Phone Number: +573233073789
+Message: HolaJacobo Montenegro Angel. Queríamos recordarte que actualemnte tienes una cuota de pago pendiente. Por favor, realizael pago lo antes posible
+--------------------
+Date: 12/1/2024
+Time: 15:40
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel. Queríamos recordarte que actualmente tienes una cuota de pago pendiente en Villa_FC. Por favor, realiza el pago lo antes posible para evitar inconvenientes. ¡Gracias y esperamos tu pronta respuesta!
+--------------------
+Date: 12/1/2024
+Time: 15:40
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez. Queríamos recordarte que actualmente tienes una cuota de pago pendiente en Villa_FC. Por favor, realiza el pago lo antes posible para evitar inconvenientes. ¡Gracias y esperamos tu pronta respuesta!
+--------------------
+Date: 12/1/2024
+Time: 15:40
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Corea. Queríamos recordarte que actualmente tienes una cuota de pago pendiente en Villa_FC. Por favor, realiza el pago lo antes posible para evitar inconvenientes. ¡Gracias y esperamos tu pronta respuesta!
+--------------------
+Date: 12/1/2024
+Time: 15:41
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez. Queríamos recordarte que actualmente tienes una cuota de pago pendiente en Villa_FC. Por favor, realiza el pago lo antes posible para evitar inconvenientes. ¡Gracias y esperamos tu pronta respuesta!
+--------------------
+Date: 12/1/2024
+Time: 15:44
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel.Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:44
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez.Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:44
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Corea.Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:45
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez.Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:47
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:47
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:47
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Corea.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 15:47
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 16:59
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 16:59
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:0
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Correa.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:0
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:4
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:4
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:5
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Correa.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:5
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:6
+Phone Number: +573233073789
+Message: Hola Jacobo Montenegro Angel.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:6
+Phone Number: +573165326067
+Message: Hola Juan Jose Gomez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:6
+Phone Number: +573193917279
+Message: Hola Daniel Carvajal Correa.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 12/1/2024
+Time: 17:7
+Phone Number: +573185957386
+Message: Hola Manuela Correa Lopez.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
+Date: 15/1/2024
+Time: 17:9
+Phone Number: +57algo
+Message: Hola algo.🚩Recuerda tu cuota pendiente en Villa_FC.Por favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!
+--------------------
