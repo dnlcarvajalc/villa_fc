@@ -23,11 +23,13 @@ def diccionario_deudores (df_new):
         df_new (pd.Dataframe): data frame con la fecha convertida al formato año, mes, dia
     """
     deudores = {}
+    acreedor = {}
     for index, cliente in df_new.iterrows():
         fecha_convertida = conv_datetime(cliente)
         fecha = datetime.now()
         df_new.at[index, 'Diferencia'] = fecha_convertida - fecha
         if df_new.at[index, 'Diferencia'] < constants.LIMIT_DAYS:        
             deudores.update({cliente['NOMBRE']: cliente['NUMERO']})
-    print(df_new) 
-    print(deudores)
+        if df_new.at[index, 'Diferencia'] > constants.LIMIT_DAYS:        
+            acreedor.update({cliente['NOMBRE']: cliente['NUMERO']})
+    return deudores, acreedor

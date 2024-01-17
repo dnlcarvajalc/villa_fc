@@ -1,6 +1,7 @@
 import constants
 import utils
 import cobros
+import graficos
 import pandas as pd
 from message import enviar_mensajes
 
@@ -16,4 +17,5 @@ if __name__ == "__main__":
 
     #Llama la función       
     enviar_mensajes(diccionario_deudores)
-    cobros.diccionario_deudores(df) 
+    deudores, acreedores = cobros.diccionario_deudores(df)
+    graficos.graficar(deudores, acreedores)
