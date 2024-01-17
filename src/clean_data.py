@@ -5,17 +5,17 @@ from datetime import datetime
 
 def verify_excel(information):
     # Verificar si la columna 'NOMBRE' contiene solo letras y/o espacios (tratando NaN como False)
-    information['CorrectName'] = information['NOMBRE'].apply(lambda x: bool(re.match('^[a-zA-Z ]+$', str(x))) if not pd.isna(x) else False)
+    information['CorrectName'] = information['NOMBRE'].apply(lambda x: bool(re.match('^[a-zA-ZñÑáéíóúÁÉÍÓÚ ]+$', str(x))) if not pd.isna(x) else False)
 
     # Verificar si la columna 'APELLIDO' contiene solo letras y/o espacios (tratando NaN como False)
-    information['CorrectLastName'] = information['APELLIDO'].apply(lambda x: bool(re.match('^[a-zA-Z ]+$', str(x))) if not pd.isna(x) else False)
+    information['CorrectLastName'] = information['APELLIDO'].apply(lambda x: bool(re.match('^[a-zA-ZñÑáéíóúÁÉÍÓÚ ]+$', str(x))) if not pd.isna(x) else False)
 
     # Verificar si la columna 'NUMERO' contiene exactamente 10 dígitos (tratando NaN como False)
     information['CorrectNumberPhone'] = information['NUMERO'].apply(lambda x: bool(re.match('^\d{10}$', str(x))) if not pd.isna(x) else False)
 
     # Verificar si la columna 'ULTIMO_PAGO' contiene el formato dd/MM/AAAA y si es menor o igual a la fecha actual (tratando NaN como False)
     information['CorrectDate'] = information['ULTIMO_PAGO'].apply(lambda x: 
-        bool(re.match('^\d{4}/\d{2}/\d{2}$', str(x))) and datetime.strptime(str(x), '%Y/%m/%d') <= datetime.now()
+        bool(re.match('^\d{2}/\d{2}/\d{4}$', str(x))) and datetime.strptime(str(x), '%d/%m/%Y') <= datetime.now()
         if not pd.isna(x) else False
     )
     # Filtrar solo las filas donde todas las columnas 'EsFormatoCorrecto' son True
