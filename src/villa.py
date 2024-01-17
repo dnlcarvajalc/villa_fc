@@ -18,6 +18,6 @@ if __name__ == "__main__":
 
     df = utils.read_excel(constants.EXCEL_PATH)
 
-    #Llama la función       
+    #Llama la función
     enviar_mensajes(diccionario_deudores)
-    cobros.diccionario_deudores(df) 
+    cobros.diccionario_deudores(df)
