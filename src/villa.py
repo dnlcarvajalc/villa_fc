@@ -1,5 +1,6 @@
 import constants
 import utils
+import United_Data
 from message import enviar_mensajes
 
 diccionario_deudores = {
@@ -10,7 +11,10 @@ diccionario_deudores = {
         }
 
 if __name__ == "__main__":
+    #Llama la función concatenar archivos excel
+    United_Data.concatenar_archivos_excel()
+
     df = utils.read_excel(constants.EXCEL_PATH)
 
     #Llama la función       
-    enviar_mensajes(diccionario_deudores)
+    #enviar_mensajes(diccionario_deudores)
