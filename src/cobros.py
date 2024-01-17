@@ -9,15 +9,15 @@ def conv_datetime (df):
         df (pd.Dataframe): Data frame con toda la informacion de pagos
 
     Returns:
-        pd.Dataframe: Data frame con la fecha en formato año, mes, dia 
+        pd.Dataframe: Data frame con la fecha en formato año, mes, dia
     """
     df_new = pd.to_datetime(df['ULTIMO_PAGO'], format= constants.DATE_FORMAT)
     return df_new
 
 
 def diccionario_deudores (df_new):
-    """Funcion para crear un diccionario en el cual se guarden las personas cuyo ultimo 
-       pago sea superior a 30 dias  
+    """Funcion para crear un diccionario en el cual se guarden las personas cuyo ultimo
+       pago sea superior a 30 dias
 
     Args:
         df_new (pd.Dataframe): data frame con la fecha convertida al formato año, mes, dia
@@ -28,8 +28,9 @@ def diccionario_deudores (df_new):
         fecha_convertida = conv_datetime(cliente)
         fecha = datetime.now()
         df_new.at[index, 'Diferencia'] = fecha_convertida - fecha
-        if df_new.at[index, 'Diferencia'] < constants.LIMIT_DAYS:        
+        if df_new.at[index, 'Diferencia'] < constants.LIMIT_DAYS:
             deudores.update({cliente['NOMBRE']: cliente['NUMERO']})
+
         if df_new.at[index, 'Diferencia'] > constants.LIMIT_DAYS:        
             acreedor.update({cliente['NOMBRE']: cliente['NUMERO']})
     return deudores, acreedor

@@ -1,5 +1,6 @@
 import constants
 import utils
+import concat_data
 import cobros
 import graficos
 import pandas as pd
@@ -13,9 +14,13 @@ diccionario_deudores = {
         }
 
 if __name__ == "__main__":
+    #Llama la función concatenar archivos excel
+    concat_data.concatenar_archivos_excel()
+
     df = utils.read_excel(constants.EXCEL_PATH)
 
-    #Llama la función       
+    #Llama la función
     enviar_mensajes(diccionario_deudores)
     deudores, acreedores = cobros.diccionario_deudores(df)
     graficos.graficar(deudores, acreedores)
+    cobros.diccionario_deudores(df)
