@@ -11,6 +11,4 @@ def read_excel(file_path:str):
         pd.DataFrame: El dataframe completo con la informacion
     """
     df = pd.read_excel(file_path)
-    print(df)
     return df
-

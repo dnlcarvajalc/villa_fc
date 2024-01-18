@@ -1,0 +1,5 @@
+Fila 1: Error en el campo 'ULTIMO_PAGO': 2023/12/25
+Fila 2: Error en el campo 'NOMBRE': Sebasti4n
+Fila 3: Error en el campo 'ULTIMO_PAGO': nan
+Fila 7: Error en el campo 'APELLIDO': nan
+Fila 8: Error en el campo 'ULTIMO_PAGO': 28/12/2024
