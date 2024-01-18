@@ -42,9 +42,6 @@ def verify_excel(information):
     filas = len(df_formato_incorrecto_false)
 
     if filas > 0:            
-        print("\n Información incorrecta")
-        print(df_formato_incorrecto)
-        print("\n") 
         for index, row in df_formato_incorrecto_false.iterrows():
             if row['CorrectName'] == False:
                 print(f"En la columna 'NOMBRE' hay un error en la fila {index + 1}")
@@ -54,7 +51,6 @@ def verify_excel(information):
                 print(f"En la columna 'NUMERO' hay un error en la fila {index + 1}")
             if row['CorrectDate'] == False:
                 print(f"En la columna 'ULTIMO_PAGO' hay un error en la fila {index + 1}")
-    else:
-        print("Información correcta")
+
 
     return df_formato_correcto

@@ -22,7 +22,6 @@ def concatenar_archivos_excel():
         united_data = pd.concat([united_data,df], ignore_index=True)
 
     if 'ULTIMO_PAGO' in united_data.columns:
-
         #Formato columna FECHA dd/mm/aa y sin hora
         united_data['ULTIMO_PAGO']= united_data['ULTIMO_PAGO'].dt.strftime(constants.DATE_FORMAT)
 

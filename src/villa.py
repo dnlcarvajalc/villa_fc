@@ -12,4 +12,4 @@ if __name__ == "__main__":
 
     #Llama la función
     enviar_mensajes(deudores)
-    graficos.graficar(deudores, acreedores)
+    # graficos.graficar(deudores, acreedores)
