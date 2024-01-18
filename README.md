@@ -18,4 +18,4 @@ El programa utiliza la API de WhatsApp para enviar recordatorios automáticos a 
 5. Generación de Histograma
 Finalmente, se genera un histograma utilizando la biblioteca de visualización de datos en Python. Este histograma proporciona una representación gráfica del estado actual de los pagos en la escuela de fútbol, mostrando la proporción de personas al día y aquellas con cuentas pendientes.
 
-[Grafica de la comparacion de los pagos](./Imagen/Figure_1.png)
+![Grafica de la comparacion de los pagos](./Imagen/Figure_1.png)
