@@ -18,7 +18,7 @@ def enviar_mensajes(diccionario_deudores:dict):
 
         for nombre, numero in diccionario_deudores.items():
             # Agrega el código de marcación para Colombia y Strip quita los espacios en blanco del número
-            numero_colombia = "+57" + numero.strip()
+            numero_colombia = "+57" + str(numero).strip()
 
             mensaje = f'Hola {nombre}.\n\n🚩Recuerda tu cuota pendiente en Villa_FC.\n\nPor favor, realiza el pago pronto para evitar inconvenientes. ¡Gracias!'
             hora_envio = datetime.now().hour
