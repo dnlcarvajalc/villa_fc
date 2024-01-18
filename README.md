@@ -1,5 +1,8 @@
 # villa_fc
 Software para la generacion de alertas de pagos gestionada mediante un archivo de excel.
+
+`python src/vila_fc.py`
+
 1. Unificación de Datos
 El primer paso del programa consiste en unificar la información dispersa en varios archivos Excel en uno solo. Esto facilita la gestión y análisis de los datos.
 
@@ -14,3 +17,5 @@ El programa utiliza la API de WhatsApp para enviar recordatorios automáticos a 
 
 5. Generación de Histograma
 Finalmente, se genera un histograma utilizando la biblioteca de visualización de datos en Python. Este histograma proporciona una representación gráfica del estado actual de los pagos en la escuela de fútbol, mostrando la proporción de personas al día y aquellas con cuentas pendientes.
+
+[Grafica de la comparacion de los pagos](./Imagen/Figure_1.png)
